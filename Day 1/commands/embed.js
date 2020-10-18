@@ -2,6 +2,7 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
   name: 'embed',
+  aliases: ['customembed', 'embeded'],
   description: 'Create a custom embed',
   execute(client, message, args) {
     
