@@ -25,4 +25,4 @@ module.exports = {
     }
   }
 }
-//ownerOnly at config.json
+//ownerOnly at index.js
